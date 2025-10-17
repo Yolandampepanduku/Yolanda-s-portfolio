@@ -1,0 +1,31 @@
+/* Styles for project.html */
+body.project-page {
+    background-color: #eaf0f6; /* light, professional background */
+}
+
+.project-page hr {
+    border: 1px solid #2c3e50;
+    margin: 20px 0;
+}
+
+.project-page table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #f7f9fb;
+}
+
+.project-page th, .project-page td {
+    border: 1px solid #2c3e50;
+    padding: 10px;
+    text-align: center;
+}
+
+.project-page th {
+    background-color: #2c3e50;
+    color: #fff;
+}
+.back-link {
+    text-align: center;
+    margin-top: 20px;
+}
